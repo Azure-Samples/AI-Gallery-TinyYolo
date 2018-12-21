@@ -116,7 +116,7 @@ def after_request(response):
 
 
 def run_scoring(service_input, request_headers):
-     main.logger.info("Headers passed in (total {0}):".format(len(request_headers)))
+    main.logger.info("Headers passed in (total {0}):".format(len(request_headers)))
     for k, v in request_headers.items():
         main.logger.info("\t{0}: {1}".format(k, v))
 
