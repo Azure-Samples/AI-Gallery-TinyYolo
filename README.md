@@ -3,7 +3,7 @@ page_type: sample
 description: "How to deploy and run an ONNX TinyYOLO model using Azure Machine Learning Service."
 languages:
 - python
-products
+products:
 - azure
 - azure-machine-learning-service
 extensions:
