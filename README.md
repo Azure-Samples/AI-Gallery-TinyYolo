@@ -8,9 +8,9 @@ products
 - azure-machine-learning-service
 extensions:
   gallery_topics:
-  - 'model'
-  - 'onnx'
-  - 'tinyyolo'
+  - model
+  - onnx
+  - tinyyolo
 ---
 
 # ONNX TinyYOLO Model in Azure AI Gallery
