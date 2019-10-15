@@ -25,11 +25,11 @@ This repository demonstrates how to deploy and run an ONNX TinyYOLO model using 
 2. Run the [configuration notebook](src/configuration.ipynb) to create your workspace. 
 3. Run the [deployment notebook](src/deploy-onnx-yolo-model.ipynb) to deploy ONNX YOLO model to a web service and try out for inference.
 
-# Resources
+## Resources
 
 
-## About Azure ML
+### About Azure ML
 Get the full documentation for Azure Machine Learning service at https://docs.microsoft.com/azure/machine-learning/service/
 
-## More Examples
+### More Examples
  * [Azure/MachineLearningNotebooks GitHub site](https://github.com/Azure/MachineLearningNotebooks)
